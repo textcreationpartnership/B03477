@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crueltie unvailed; or, The state of the case of several persons, committed close-prisoners to the Gate-house, Westminster; diligently collected (piece-meal) from good information: together with some queries annexed. Tendred to the consideration of the learned in the law, for their advice there-upon. By Peter Goodman, a visitor of prisoners, and a wel-wisher to justice, and the peace and happiness of these kingdoms.</title>
+            <author>Goodman, Peter, fl. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03477</idno>
+            <idno type="STC">Wing G1141C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[48]</idno>
+            <idno type="EEBO-CITATION">99887628</idno>
+            <idno type="PROQUEST">ocm99887628</idno>
+            <idno type="VID">182439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182439)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Crueltie unvailed; or, The state of the case of several persons, committed close-prisoners to the Gate-house, Westminster; diligently collected (piece-meal) from good information: together with some queries annexed. Tendred to the consideration of the learned in the law, for their advice there-upon. By Peter Goodman, a visitor of prisoners, and a wel-wisher to justice, and the peace and happiness of these kingdoms.</title>
+                  <author>Goodman, Peter, fl. 1661.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justice, Administration of --  England --  Early works to 1800.</term>
+               <term>Prisoners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182439:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>CRUELTIE Unvailed; OR, The State of the Caſe of ſeveral Perſons, Committed Cloſe-Priſoners to the Gate-houſe, <hi>Weſtminſter;</hi> Diligently Collected (piece-meal) from good Information: together with ſome <hi>Queries</hi> annexed.</head>
+            <head type="sub">Tendred to the Conſideration of the Learned in the Law, for their Advice there-upon.</head>
+            <byline>By <hi>Peter Goodman,</hi> a Viſitor of Priſoners, and a Wel-wiſher to Juſtice, and the Peace and Happineſs of theſe Kingdoms.</byline>
+            <p>
+               <label>I.</label>
+               <seg rend="decorInit">T</seg>Hat the ſaid Perſons being in a quiet and peaceable manner endeavouring in their reſpective qualities, to provide Bread for themſelves and Families; and being not excluded from the Common Rights and Benefits of their Na<g ref="char:EOLhyphen"/>tive Country; nor having by any Act of Theirs forfeited the ſame; Yet were ſeized on by Meſſengers, with Warrants from the Chief Secretaries of State, to bring them before the <hi>King</hi> and <hi>Council:</hi> But inſtead thereof, they were, by other Warrants, ſigned by the ſaid Secretaries, carried away to the <hi>Gatehouſe,</hi> and there kept cloſe Priſoners, without any Hearing, Examination, or Accuſation, that they have heard of; Where the Exorbitant Fees, and other Extraordinary Charges of that Priſon, together with the ſeverity of their Jaylors, doth not only impare their Health, but doth alſo <hi>conſume</hi> and <hi>eat</hi> them up daily, and deprive their Wives and Children of the benefit of that little which was left them.</p>
+            <p>
+               <label>II.</label>
+In this Condition, ſeveral of their Wives and other Relations, with much Solicitation, Attendance, and Charge, procured Orders from the <hi>Council</hi> to ſee them, and to ſupply their Neceſſities: which Orders the Jaylors will ſometimes obey, at other times refuſe, with ſcur<g ref="char:EOLhyphen"/>rilous language to their Relations; and alſo Contempt of the ſaid Orders; ſaying to ſome of them, <hi>They may keep them, and wipe their Breeches with them.</hi> Some of them, ſo denyed by the Jaylors, have out of the Streets Called to their Friends at their Windows, to know their Wants; for which they were Impriſoned, until they would pay what the Jaylors were pleaſed to exact. Some of the ſaid Priſoners being ſick, have been denyed a Phyſician, without Order from the Council, which is not readily obtained; and in the mean time have de<g ref="char:EOLhyphen"/>nied them the company of their Wives, who had Orders to viſit them; and yet the Jaylors have neglected to bring them Food, and other Ne<g ref="char:EOLhyphen"/>ceſſaries in convenient times, ſuitable to their weak Condition; and ſometimes when Neceſſaries have been ſent for from abroad, they have taken them away, and diſpoſed of them as they pleaſed; being unwilling any thing ſhould be brought to them, which they have no pro<g ref="char:EOLhyphen"/>fit out of.</p>
+            <p>
+               <label>III.</label>
+And whereas ſome of the ſaid Priſoners have Suits depending in Law, and other Occaſions, wherein all they have is concerned; Yet are not permitted to ſpeak with their Counſel, Atturney, or others, with whom their Buſineſs lyes: by which ſeveral of them are like to be wholly Ruined.</p>
+            <p>
+               <label>IV.</label>
+Pen, Ink and Paper is denyed them, Except it be to write for Money for their Jaylors, in their ſight; who exact of them Ten ſhillings a week for a Bed in ſome Rooms; and Seven ſhillings in other Rooms; and double the ſum, where two Priſoners lie in one Bed; beſides Five ſhillings for a Pair of Sheets for each Man at Entrance: Alſo Twenty ſhillings of Every one for turning the Key; and Five ſhillings for the Under-Keeper: demanding alſo Five pound a man to be Excuſed the wearing of Irons; which ſome have been forced to pay, or wear them. What Drink they have, muſt be had of them, at Two-pence a <hi>Wincheſter Pint,</hi> whether ſtrong or ſmall: Beſides the Meſſengers Fees, which are very great; Their daily Charge; The Dammage they receive by the neglect of their Callings; Their great Poverty; The Neceſſities of their Families, many of them being very large.</p>
+            <p>All which conſidered, with what more might be ſaid, makes their Condition <hi>Exceeding Miſerable.</hi> And that which addeth to their fur<g ref="char:EOLhyphen"/>ther <hi>Miſery,</hi> is, That no time is prefixed (that is known to them) for a Hearing or Determining their Cauſe, although often by them deſired, to the end that their Innocency might appear; And in order thereunto, very much means hath been uſed by their Relations, which hitherto hath proved ineffectual: And that no lawful Endeavours, to avoid the utter Ruine of them and their Families might be left unattempted, It's queried as followeth;
+<list>
+                  <item>1. What the Law means by <hi>Cloſe-Impriſonment?</hi>and for what Crimes, and by what Authority men ought to be ſo committed? and how long without being called to any Tryal? ſome having been there impriſoned about the ſpace of a year.</item>
+                  <item>2. Whether Priſoners committed as aforeſaid, ought not to be maintained at the Kings Charge?</item>
+                  <item>3. Whether by Law, Iaylors may chain up and uſe ſuch Priſoners ſo as is expreſſed in the State of their Caſe above-writ<g ref="char:EOLhyphen"/>ten? if not,</item>
+                  <item>4. What Remedy is there by Law for ſuch Priſoners committed and uſed as aforeſaid (by their Iaylors) to right them<g ref="char:EOLhyphen"/>ſelves?</item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
